@@ -2,17 +2,18 @@
 Aspiring Manual QA Tester based in Italy, with a background in Economics and Accounting and professional experience in customer service.
 Passionate about software quality, problem-solving, and delivering reliable user experiences.
 ## Technical Skills
--Manual and Functional Testing
--Test Case Design and Execution
--Bug Reporting and Defect Tracking
--Jira and GitHub
--Positive and Negative Testing
--Software Testing Life Cycle (STLC)
-## QA Project | SauceDemo
--Practical testing of an e-commerce application, including:
--Login and Form Validation
--Shopping Cart Functionality
--Test Execution and Documentation
--Bug Reporting
+- Manual and Functional Testing
+- Test Case Design and Execution
+- Bug Reporting and Defect Tracking
+- Jira and GitHub
+- Positive and Negative Testing
+- Software Testing Life Cycle (STLC)
+## QA Project 
+- SauceDemo
+- Practical testing of an e-commerce application, including:
+- Login and Form Validation
+- Shopping Cart Functionality
+- Test Execution and Documentation
+- Bug Reporting
 ## Career Objective
-Seeking entry-level Manual QA Tester opportunities, including remote and freelance positions
+- Seeking entry-level Manual QA Tester opportunities, including remote and freelance positions
