@@ -1,14 +1,15 @@
 ## TC-003 — Verify Login with Valid Credentials
 # Application: 
 SauceDemo
-# Test Type: Functional Testing — Positive Scenario
+# Test Type: 
+Functional Testing — Positive Scenario
 # Test Objective
 Verify that a user can successfully log in using valid credentials.
 ## Preconditions
 - The SauceDemo website is accessible.
 - The user has valid login credentials.
 - The login page is displayed.
- # Test Steps
+## Test Steps
 - Open https://www.saucedemo.com/
 - Enter a valid username.
 - Enter the correct password.
