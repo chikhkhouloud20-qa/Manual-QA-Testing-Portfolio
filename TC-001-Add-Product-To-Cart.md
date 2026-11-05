@@ -1,6 +1,8 @@
 ## TC-001 — Verify Product Added to Shopping Cart
-- Application: SauceDemo
-- Jira ID: KAN-3
+# Application: 
+SauceDemo
+# Jira ID: 
+KAN-3
 ## Test Type: Functional Testing — Positive Scenario
 # Test Objective
 Verify that a user can successfully add a product to the shopping cart.
