@@ -1,7 +1,8 @@
 ## TC-006 — Verify Login with Empty Username
-## Application: 
+# Application: 
 - SauceDemo
-- Jira ID: KAN-9
+# Jira ID:
+KAN-9
 # Test Type: 
 Functional Testing — Negative Scenario
 # Test Status: 
