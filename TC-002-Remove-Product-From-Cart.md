@@ -1,7 +1,7 @@
 ## TC-002 — Remove Product from Shopping Cart
 # Application: 
 SauceDemo 
-# Jira:
+# Jira ID:
 KAN-4 
 # Test Objective
 Verify that a user can successfully remove a product from the shopping cart.
