@@ -35,4 +35,4 @@ Passionate about software quality, problem-solving, and delivering reliable user
  
 -[TC-008 — Locked-Out User](TC-008-Locked-Out-User.md)
 
--[BUG-001 — Incorrect Product Price in Shopping Cart](BUG-001%20%E2%80%94%20Incorrect%20Product%20Price%20in%20Shopping%20Cart.md)
+-[BUG-001 — Incorrect Product Price in Shopping Cart](BUG-001%20%E2%80%94%20Incorrect%20Product%20Price%20in%20Shopping%20Cart)
