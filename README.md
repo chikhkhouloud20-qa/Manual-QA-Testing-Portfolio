@@ -35,4 +35,4 @@ Passionate about software quality, problem-solving, and delivering reliable user
  
 -[TC-008 — Locked-Out User](TC-008-Locked-Out-User.md)
 
-- [BUG-001 — Shopping Cart Price Error (Training Scenario)](BUG-001-Shopping-Cart-Price-Error.md)
+-[BUG-001 — Shopping Cart Price Error (Training Scenario)](BUG-001-Shopping-Cart-Price-Error.md)
