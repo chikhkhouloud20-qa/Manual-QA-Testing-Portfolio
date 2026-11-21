@@ -52,10 +52,7 @@ pm.test("Email field exists and is not empty", function () {
 
 ## Test Evidence
 
-Screenshot: API-TC-026-Collection-Runner-PASS.png
-
-The screenshot was captured after executing the
-automated tests using Postman Collection Runner.
+![Postman Collection Runner - 3 Passed, 0 Failed](API-TC-026-Collection-Runner-PASS.png)
 
 ## Jira Documentation
 
